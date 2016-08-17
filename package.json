@@ -1,0 +1,29 @@
+{
+  "name": "pokemon-random-name",
+  "version": "1.0.0",
+  "description": "Random Pokemon Name",
+  "main": "pokemonRandomName.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/suissa/pokemon-random-name.git"
+  },
+  "keywords": [
+    "pokemon",
+    "random",
+    "name",
+    "node.js",
+    "api",
+    "test",
+    "tdd",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/pokemon-random-name/issues"
+  },
+  "homepage": "https://github.com/suissa/pokemon-random-name#readme"
+}
